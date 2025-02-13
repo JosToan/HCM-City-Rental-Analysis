@@ -26,6 +26,6 @@ This project focuses on analyzing the **rental market in Ho Chi Minh City (HCMC)
 
 ## 🔧 Tech Stack
 - **Python** (BeautifulSoup, Pandas, NumPy, Scikit-learn, NLP libraries)  
-- **SQL** (PostgreSQL/MySQL for database storage and processing)  
+- **SQL** (SQL Server for database storage and processing)  
 - **Machine Learning** (Regression models for price prediction)  
-- **Visualization** (Power BI / Streamlit / Tableau)  
+- **Visualization** (Power BI)  
